@@ -1,0 +1,6 @@
+{
+  "name": "Lexway Law Firm",
+  "description": "Established in 1992, Lexway is one of Pakistan's leading litigation and premier corporate law firms based in Karachi, representing clients before the Supreme Court, High Courts, and Tribunals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
